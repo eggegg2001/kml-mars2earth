@@ -6,10 +6,10 @@ kml-mars2earth
 所以当我们从Google map绘制好路线，导出为kml再导入google earth后，就会发现路径上的一系列点与google earth上的卫星地图的正确的一系列点产生了偏移。
 本程序的目的就是通过以下项目提供的算法，对kml文件进行“纠偏处理”
 
-### 纠偏前:  
+纠偏前:  
 <img src="https://user-images.githubusercontent.com/28710721/173501048-01055968-0eff-4b0f-9339-3694071376d6.png" width="600"/>
 
-### 纠偏后：  
+纠偏后：  
 <img src="https://user-images.githubusercontent.com/28710721/173501116-7b319631-612b-4653-b5d9-80abe3ee8555.png" width="600" />
 
 
@@ -18,7 +18,7 @@ kml-mars2earth
 python main.py xxx.kml
 ```
 
-##参考项目：  
+## 参考项目：  
 Transport coordinate算法：https://github.com/googollee/eviltransform  
 早期的kml纠正程序：https://github.com/JohnWong/fix-kml-kmz （由于作者长期不维护，该程序已经不可用）
 
