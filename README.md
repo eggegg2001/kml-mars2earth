@@ -7,10 +7,11 @@ kml-mars2earth
 本程序的目的就是通过以下项目提供的算法，对kml文件进行“纠偏处理”
 
 纠偏前：
-![image](https://user-images.githubusercontent.com/28710721/173501048-01055968-0eff-4b0f-9339-3694071376d6.png)
+<img src="https://user-images.githubusercontent.com/28710721/173501048-01055968-0eff-4b0f-9339-3694071376d6.png" width="200" />
 
 纠偏后：
-![image](https://user-images.githubusercontent.com/28710721/173501116-7b319631-612b-4653-b5d9-80abe3ee8555.png)
+<img src="https://user-images.githubusercontent.com/28710721/173501116-7b319631-612b-4653-b5d9-80abe3ee8555.png" width="200" />
+
 
 使用方法：
 ``` shell
