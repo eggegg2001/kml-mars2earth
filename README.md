@@ -12,6 +12,7 @@ kml-mars2earth
 
 
 ## 使用方法：  
+在cmd中进入程序根目录，输入以下代码，python必须是python2版本
 ``` shell
 python main.py xxx.kml
 ```
